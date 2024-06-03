@@ -1,5 +1,5 @@
 # EntityRandomizerETB
-SOURCE CODE REPOSITORY ONLY.
+SOURCE CODE REPOSITORY
 
 Escape The Backrooms Mod that randomizes Entities on Host Input
 
