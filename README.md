@@ -1,6 +1,5 @@
 # EntityRandomizerETB
-> ### TOGGLEABLE MOD
-press Z to shuffle.
+SOURCE CODE REPOSITORY ONLY.
 
 Escape The Backrooms Mod that randomizes Entities on Host Input
 
@@ -8,7 +7,7 @@ Escape The Backrooms Mod that randomizes Entities on Host Input
 
 ## Instalation:
 
-1- Download the mod in releases Tab on right side at center.
+1- Download the mod in Nexus Mods.
 
 2- Put in **C:\Program Files (x86)\Steam\steamapps\common\EscapeTheBackrooms\EscapeTheBackrooms\Content\Paks\interpose_mods**
 
